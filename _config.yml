@@ -38,9 +38,9 @@ navigation:
   - title: Home
     url: /
   - title: Ethics
-    url: /ethics
-  - title: Contact
-    url: /contact
+    url: https://hoangvinhphan.github.io/hphan21.github.io/ethics/
+  - title: Cite
+    url: https://hoangvinhphan.github.io/hphan21.github.io/cite/
 
 
 # Exclude from processing.
