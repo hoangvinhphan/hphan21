@@ -1,5 +1,5 @@
 ---
-layout: ethics
+layout: default
 title: Ethics
 ---
 

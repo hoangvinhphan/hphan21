@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Citation
+title: Home
 ---
 
 {% include cite.html %}
